@@ -1,4 +1,4 @@
-wade6.github.io
+http://wade6.github.io
 ===============
 
 My Owner Pages
